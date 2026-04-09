@@ -1,4 +1,3 @@
-# Amazon-Loyalty-Sales-Performance-Dashboard
 # 📊 Amazon Customer & Sales Analytics Dashboard (Power BI)
 
 ## 📊 Project Overview
