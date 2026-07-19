@@ -57,3 +57,25 @@ Key measures include:
 
 - **Report Page Tooltips**
   - Hover-based deep-dive insights without leaving the main view
+
+## 📸 Dashboard Screenshots
+
+### Executive Summary / Main Dashboard
+![Dashboard](Dashboard.png)
+
+### Data Model — Star Schema
+![Star Schema](Star%20Schema.png)
+
+### Drill-through — Customer Details
+![Customer Details - Drill through](Customer%20Details%20-%20Drill%20through.png)
+
+### Tooltip — Customer Details
+![Customer Details - Tooltip](Customer%20Details%20-%20Tooltip.png)
+
+## 👩‍💻 Author
+
+**Anisha Jain**
+
+- GitHub: [@anishajain734](https://github.com/anishajain734)
+- LinkedIn: [in/anisha-jain-762514176](https://linkedin.com/in/anisha-jain-762514176)
+- Email: [jainanisha734@gmail.com](mailto:jainanisha734@gmail.com)
