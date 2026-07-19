@@ -5,6 +5,7 @@ This end-to-end **Power BI solution** analyzes customer behavior, regional sales
 
 The goal was to transform raw transactional data into a **strategic decision-making tool** that identifies high-value customers and operational bottlenecks.
 
+---
 
 ## 🖼️ Dashboard Preview
 
@@ -14,6 +15,9 @@ The goal was to transform raw transactional data into a **strategic decision-mak
 | **Customer Insights** | Spend vs Frequency mapping and retention analysis |
 | **Regional Performance** | Geographic distribution of sales and fulfillment status |
 | **Drill-through Detail** | Granular row-level analysis for state-wise insights |
+
+
+---
 
 ## 💡 Business Value
 
@@ -27,6 +31,10 @@ This dashboard answers critical **"So What?"** questions for management:
 
 - **What drives growth?**  
   Compares YoY performance across different membership types (Annual vs Monthly).
+
+
+---
+
 ## 🛠️ Technical Deep-Dive
 
 ### 1. Data Architecture (Star Schema)
@@ -57,6 +65,9 @@ Key measures include:
 
 - **Report Page Tooltips**
   - Hover-based deep-dive insights without leaving the main view
+
+
+---
 
 ## 📸 Dashboard Screenshots
 
