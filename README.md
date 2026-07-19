@@ -74,14 +74,17 @@ Key measures include:
 ### Executive Summary / Main Dashboard
 ![Dashboard](Dashboard.png)
 
-### Data Model — Star Schema
-![Star Schema](Star%20Schema.png)
-
 ### Drill-through — Customer Details
 ![Customer Details - Drill through](Customer%20Details%20-%20Drill%20through.png)
 
 ### Tooltip — Customer Details
 ![Customer Details - Tooltip](Customer%20Details%20-%20Tooltip.png)
+
+### Data Model — Star Schema
+![Star Schema](Star%20Schema.png)
+
+---
+
 
 ## 👩‍💻 Author
 
